@@ -13,5 +13,4 @@ public class MatrixAssignment1 {
         }
         System.out.println("count of 7" + count7);
 }
-    }
-
+    }  
